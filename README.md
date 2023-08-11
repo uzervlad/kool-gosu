@@ -13,6 +13,10 @@ An overlay for gosumemory
 
 </details>
 
+## Issues
+
+* BPM counter shows max BPM instead of current, since gosumemory doesn't provide current BPM
+
 ## Setup
 
 1. Download latest version [here](https://github.com/uzervlad/kool-gosu/releases/latest/download/kool.zip)
