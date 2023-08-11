@@ -21,11 +21,13 @@ An overlay for gosumemory
 
 1. Download latest version [here](https://github.com/uzervlad/kool-gosu/releases/latest/download/kool.zip)
 
-2. Unzip `Kool` to your gosumemory/Static folder
+2. Create a new folder in your gosumemory/Static folder
 
-3. Open `http://localhost:24050/Kool/`
+3. Unzip `kool.zip` into the folder from step 2
 
-4. To update, run `update.exe` ([Source](https://github.com/uzervlad/simple-gh-updater))
+4. Open `http://localhost:24050/Kool/`
+
+5. To update, run `update.exe` ([Source](https://github.com/uzervlad/simple-gh-updater))
 
 ## Settings
 
