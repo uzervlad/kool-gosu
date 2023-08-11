@@ -7,9 +7,9 @@ An overlay for gosumemory
 <details>
   <summary>Expand</summary>
 
-  ![image](https://github.com/uzervlad/kool-gosu/assets/24654479/225ff4a0-62d3-46eb-8cc6-422dfcb076a0)
+  ![image](/img/a.png)
 
-  ![image](https://github.com/uzervlad/kool-gosu/assets/24654479/72ddc55a-a3e3-45ce-847f-5940708e0946)
+  ![image](/img/b.png)
 
 </details>
 
