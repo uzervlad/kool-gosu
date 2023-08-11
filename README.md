@@ -21,7 +21,7 @@ An overlay for gosumemory
 
 1. Download latest version [here](https://github.com/uzervlad/kool-gosu/releases/latest/download/kool.zip)
 
-2. Create a new folder in your gosumemory/Static folder
+2. Create a new folder called `Kool` in your gosumemory/Static folder
 
 3. Unzip `kool.zip` into the folder from step 2
 
