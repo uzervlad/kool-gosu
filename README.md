@@ -2,6 +2,8 @@
 
 An overlay for gosumemory
 
+**[Recommended]** [StreamCompanion port](https://github.com/uzervlad/kool-sc) of this overlay
+
 ## Screenshots
 
 <details>
